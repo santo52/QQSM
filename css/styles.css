@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {}
+
+main {
+    min-height: 100vh;
+    width: 100vw;
+    height: 100%;
+    background: radial-gradient(circle, #000 5%, #183163 80%, #202e47)
+}
+
+.row {
+    display: flex;
+}
+
+.center {
+    justify-content: center;
+}
+
+.middle {
+    align-items: center;
+}
+
+.column {
+    flex-direction: column
+}
+
+.input {
+    margin: 10px;
+    height: 60px;
+    background: radial-gradient(circle, #fff, #183163 30%, #202e47);
+    border: 5px solid #fff;
+    border-radius: 30px;
+    width: 40%;
+    position: relative;
+}
