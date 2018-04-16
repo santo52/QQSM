@@ -11,44 +11,21 @@
 
 <body>
     <main class="row middle center column">
-        <img src="images/logo.png" alt="logo" style="opacity: .6;">
-
-        <div id="container" class="row middle center column" style="width:100%">
-            <div class="input col-sm-6" style="text-align: center; padding: 10px; background: green" id="start">
-                <span class="text">CLICK PARA EMPEZAR</span>
-            </div>
-
+        <button onclick="enviar()" class="next">Última palabra</button>
+        <div style="position:relative">
+            <img src="images/logo.png" alt="logo" style="opacity: .6;">
+            <span id="contador" style="display:none">60</span>
         </div>
+        <input type="hidden" id="iteracion" value="0">
 
-
-        <!--<div class="input col-sm-12">
-            <span class="text" style="margin:10px;">El valor de la pregunt</span>
-        </div>
-        <div class="row col-sm-12">
-            <div class="input  between basis-50">
-                <span class="option">a.</span>
-                <span class="text">El valor de la pregunt</span>
-            </div>
-            <div class="input  between basis-50">
-                <span class="option">a.</span>
-                <span class="text">El valor de la pregunt</span>
-            </div>
-        </div>
-        <div class="row col-sm-12">
-            <div class="input  between basis-50">
-                <span class="option">a.</span>
-                <span class="text">El valor de la pregunt</span>
-            </div>
-            <div class="input  between basis-50">
-                <span class="option">a.</span>
-                <span class="text">El valor de la pregunt</span>
-            </div>
-        </div>-->
-
+        <div id="container" class="row middle center column" style="width:100%"></div>
     </main>
 
     <script src="js/jquery.js"></script>
     <script src="js/script.js"></script>
+    <script>
+        reiniciar();
+    </script>
 </body>
 
 </html>
