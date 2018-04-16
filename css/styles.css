@@ -7,6 +7,7 @@
 body {}
 
 main {
+    padding: 15px;
     min-height: 100vh;
     width: 100vw;
     height: 100%;
@@ -31,10 +32,45 @@ main {
 
 .input {
     margin: 10px;
-    height: 60px;
-    background: radial-gradient(circle, #fff, #183163 30%, #202e47);
+    height: 70px;
+    background: radial-gradient(circle, #183163, #202e47);
     border: 5px solid #fff;
     border-radius: 30px;
     width: 40%;
-    position: relative;
+    display: inline-block;
+    cursor: pointer
+}
+
+.input:hover {
+    opacity: .8;
+}
+
+.col-sm-12 {
+    width: 100%;
+}
+
+.col-sm-6 {
+    width: 50%;
+}
+
+.basis-50 {
+    flex-basis: 50%
+}
+
+.input .option {
+    color: orange;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+.input .text {
+    color: white;
+    display: inline-block;
+    font-size: 1.4rem;
+}
+
+.between {
+    justify-content: space-between;
 }

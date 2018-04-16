@@ -1,0 +1,223 @@
+{
+
+    "1": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "I’m going to help you if you help me.",
+            "b": "I’ll help you if you help me.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "2": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Why are you here? - I’m going to help your sister with her homework.",
+            "b": "Why are you here? - I’ll help your sister with her homework.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "3": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "If she doesn’t start working harder, she’s going to fail the test.",
+            "b": "If she doesn’t start working harder, she’ll fail the test.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "c"
+    },
+
+    "4": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "There’s a knock at the door. - I’m going to go!",
+            "b": "There’s a knock at the door. - I’ll go!",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "5": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Let’s ask John how to solve this problem. He’s going to know.",
+            "b": "Let’s ask John how to solve this problem. He’ll know.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "6": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "It’s rather cold in here. - Sorry, I’m going to close the window.",
+            "b": "It’s rather cold in here. - Sorry, I’ll close the window.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "7": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Who do you think is going to win the World Cup?",
+            "b": "Who do you think will win the World Cup?",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "c"
+    },
+
+    "8": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "I’m not ready yet. - That’s ok, I’m going to wait.",
+            "b": "I’m not ready yet. - That’s ok, I’ll wait.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "9": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "We have no more milk. - Oh, I’m going to buy some on the way home.",
+            "b": "We have no more milk. - Oh, I’ll buy some on the way home.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "10": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Are you going to play basketball after school today? - No, I have too much work.",
+            "b": "Will you play basketball after school today? - No, I have too much work.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "11": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "If you don’t hurry up, we’re going to be late.",
+            "b": "If you don’t hurry up, we’ll be late.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "c"
+    },
+
+    "12": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Shall we play tennis tomorrow? - I’d like to, but I’m going to stay in and study for the test.",
+            "b": "Shall we play tennis tomorrow? - I’d like to, but I’ll stay in and study for the test.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "13": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Do you have any plans for the future? - Yes, I’m going to work on a farm.",
+            "b": "Do you have any plans for the future? - Yes, I’ll work on a farm.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "14": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Do you know how to make a PowerPoint presentation? - Yes. I’m going to show you.",
+            "b": "Do you know how to make a PowerPoint presentation? - Yes. I’ll show you.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "15": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Do you know how to make a PowerPoint presentation? - Yes. I’m going to show you.",
+            "b": "Let’s have a party. - Great idea. I’ll buy the drink. You get the food.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "16": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Sorry. We have no more French Fries. - Ok, I’m going to have rice instead.",
+            "b": "Sorry. We have no more French Fries. - Ok, I’ll have rice instead.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "17": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "Look at the dark clouds. I think it’s going to rain.",
+            "b": "Look at the dark clouds. I think it will rain.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "18": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "John phoned. - I know. I’m going to call him back after dinner.",
+            "b": "John phoned. - I know. I’ll call him back after dinner.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "a"
+    },
+
+    "19": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "John phoned. - Really? I’m going to call him back after dinner.",
+            "b": "John phoned. - Really? I’ll call him back after dinner.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "b"
+    },
+
+    "20": {
+        "pregunta": "Look at the pairs of sentences on the right",
+        "respuestas": {
+            "a": "He’s going to have a bad accident if he continues to drive so fast.",
+            "b": "He’ll have a bad accident if he continues to drive so fast.",
+            "c": "Both of the above sentences are correct.",
+            "d": "Any"
+        },
+        "resp": "c"
+    }
+
+}
