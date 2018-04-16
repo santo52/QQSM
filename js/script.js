@@ -5,6 +5,11 @@ var timerId;
 function changeQuestion() {
     var preguntas = localStorage.getItem('preguntas');
     var iteracion = $('#iteracion').val();
+    $('#next').hide();
+
+    if ($('#cincuenta').val() == 1) {
+        $('.ayudas').show();
+    }
 
     if (preguntas == undefined || iteracion > iteraciones) {
         preguntas = '[]';
@@ -74,6 +79,7 @@ function response(self) {
     $('#respondido').val(val);
     $('.input').removeClass('orange');
     $(self).addClass('orange');
+    $('#next').show();
 }
 
 function enviar() {
@@ -120,4 +126,21 @@ function reiniciar() {
     `;
     $('#contador').hide();
     $('#container').html(html);
+    $('#next').hide();
+    $('.ayudas').hide();
+    $('#cincuenta').val(1);
+}
+
+function cincuenta() {
+    var respuesta = $('#respuesta').val();
+    let array = { 'a': 1, 'b': 2, 'c': 3, 'd': 4 };
+    let x = parseInt(Math.random() * (4 - 1) + 1);
+    $.each(array, function(i, v) {
+        if (!(v == x || i == respuesta)) {
+            $('[data-value=' + i + ']').addClass('disabled');
+        }
+    });
+
+    $('.ayudas').hide();
+    $('#cincuenta').val(0);
 }

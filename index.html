@@ -11,12 +11,17 @@
 
 <body>
     <main class="row middle center column">
-        <button onclick="enviar()" class="next">Última palabra</button>
+        <button onclick="enviar()" id="next" style="display:none">Última palabra</button>
+        <div class="ayudas" style="position: fixed; left: 0; top:0; display:none">
+            <button onclick="cincuenta()">50/50</button>
+        </div>
+
         <div style="position:relative">
             <img src="images/logo.png" alt="logo" style="opacity: .6;">
             <span id="contador" style="display:none">60</span>
         </div>
         <input type="hidden" id="iteracion" value="0">
+        <input type="hidden" id="cincuenta" value="1">
 
         <div id="container" class="row middle center column" style="width:100%"></div>
     </main>

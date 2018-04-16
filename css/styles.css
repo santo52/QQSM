@@ -89,7 +89,7 @@ main {
     background: green;
 }
 
-.next {
+#next {
     position: fixed;
     top: 0;
     right: 0;
@@ -118,4 +118,29 @@ main {
     margin-top: -50px;
     margin-left: -50px;
     box-shadow: 1px 1px 1px 1px black;
+}
+
+.ayudas {
+    padding: 10px;
+}
+
+.ayudas button {
+    padding: 2px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    font-size: 1.2rem;
+    background: #375081;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.disabled {
+    cursor: auto;
+    opacity: .8;
+}
+
+.disabled .text {
+    display: none;
 }
