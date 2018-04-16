@@ -56,25 +56,25 @@
     },
 
     "6": {
-        "pregunta": "Look at the pairs of sentences on the right",
+        "pregunta": "Tommy _________ call her tonight",
         "respuestas": {
-            "a": "It’s rather cold in here. - Sorry, I’m going to close the window.",
-            "b": "It’s rather cold in here. - Sorry, I’ll close the window.",
-            "c": "Both of the above sentences are correct.",
-            "d": "Any"
+            "a": "are going to",
+            "b": "is going to",
+            "c": "is will",
+            "d": "is won't"
         },
         "resp": "b"
     },
 
     "7": {
-        "pregunta": "Look at the pairs of sentences on the right",
+        "pregunta": "Michael and Laura ___________ go on a trip to Egypt next week ",
         "respuestas": {
-            "a": "Who do you think is going to win the World Cup?",
-            "b": "Who do you think will win the World Cup?",
-            "c": "Both of the above sentences are correct.",
-            "d": "Any"
+            "a": "are gonna",
+            "b": "is gonna",
+            "c": "is going",
+            "d": "is won't"
         },
-        "resp": "c"
+        "resp": "a"
     },
 
     "8": {
@@ -89,14 +89,14 @@
     },
 
     "9": {
-        "pregunta": "Look at the pairs of sentences on the right",
+        "pregunta": "Boys _______ be boys!",
         "respuestas": {
-            "a": "We have no more milk. - Oh, I’m going to buy some on the way home.",
-            "b": "We have no more milk. - Oh, I’ll buy some on the way home.",
-            "c": "Both of the above sentences are correct.",
-            "d": "Any"
+            "a": "Will",
+            "b": "Won't",
+            "c": "Going to",
+            "d": "Gonna"
         },
-        "resp": "b"
+        "resp": "a"
     },
 
     "10": {
@@ -122,14 +122,14 @@
     },
 
     "12": {
-        "pregunta": "Look at the pairs of sentences on the right",
+        "pregunta": "Will is used for",
         "respuestas": {
-            "a": "Shall we play tennis tomorrow? - I’d like to, but I’m going to stay in and study for the test.",
-            "b": "Shall we play tennis tomorrow? - I’d like to, but I’ll stay in and study for the test.",
-            "c": "Both of the above sentences are correct.",
-            "d": "Any"
+            "a": "To make decitions",
+            "b": "To make a promise",
+            "c": "To make a predictions",
+            "d": "All of the above"
         },
-        "resp": "a"
+        "resp": "d"
     },
 
     "13": {
